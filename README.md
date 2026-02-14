@@ -39,8 +39,8 @@ This project demonstrates automation of multimedia processing using Python and t
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/Itz-Ayushi/Youtube_audio_mashup.git
+cd Youtube_audio_mashup
 ```
 
 ### 2️⃣ Install Required Python Packages
@@ -81,9 +81,9 @@ python 102317237.py "Taylor Swift" 15 30 mashup.mp3
    ```bash
    python app.py
    ```
-1. Open http://127.0.0.1:5000 in your browser.
-2. Fill in the singer name, counts ($>10$), duration ($>20$), and your email.
-3. The mashup will be generated and sent as a .zip attachment to your inbox.
+   * Open http://127.0.0.1:5000 in your browser.
+   * Fill in the singer name, counts ($>10$), duration ($>20$), and your email.
+   * The mashup will be generated and sent as a .zip attachment to your inbox.
 ---
 ## 📌 Parameter Rules
 
